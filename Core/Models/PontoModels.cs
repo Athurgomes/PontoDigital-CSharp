@@ -18,9 +18,9 @@ public class PontoModels
     //aqui temos o construtor responsavel pela criação de novos pontos
     // ou seja cada vez que é registado seja saida ou entrada o construtor 
     // será chamado
-    public PontoModels(int id, tipoRegistro tipo)
+    public PontoModels(int colaboradorID, tipoRegistro tipo)
     {
-        idColaborador = id;
+        idColaborador = colaboradorID;
         Tipo = tipo;
         DataHora = DateTime.Now;//aqui pegamos a data e hora atuais
     }
