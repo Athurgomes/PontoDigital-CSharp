@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaPonto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4f540e7621428fbaf2a587fac5ac189f88c4d74")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaPonto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaPonto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
