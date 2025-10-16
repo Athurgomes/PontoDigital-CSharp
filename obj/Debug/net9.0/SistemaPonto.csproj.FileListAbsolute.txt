@@ -1,0 +1,14 @@
+/Users/arthurogomes/Documents/WS-VSCode/SistemaPonto/SistemaPonto/bin/Debug/net9.0/SistemaPonto
+/Users/arthurogomes/Documents/WS-VSCode/SistemaPonto/SistemaPonto/bin/Debug/net9.0/SistemaPonto.deps.json
+/Users/arthurogomes/Documents/WS-VSCode/SistemaPonto/SistemaPonto/bin/Debug/net9.0/SistemaPonto.runtimeconfig.json
+/Users/arthurogomes/Documents/WS-VSCode/SistemaPonto/SistemaPonto/bin/Debug/net9.0/SistemaPonto.dll
+/Users/arthurogomes/Documents/WS-VSCode/SistemaPonto/SistemaPonto/bin/Debug/net9.0/SistemaPonto.pdb
+/Users/arthurogomes/Documents/WS-VSCode/SistemaPonto/SistemaPonto/obj/Debug/net9.0/SistemaPonto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arthurogomes/Documents/WS-VSCode/SistemaPonto/SistemaPonto/obj/Debug/net9.0/SistemaPonto.AssemblyInfoInputs.cache
+/Users/arthurogomes/Documents/WS-VSCode/SistemaPonto/SistemaPonto/obj/Debug/net9.0/SistemaPonto.AssemblyInfo.cs
+/Users/arthurogomes/Documents/WS-VSCode/SistemaPonto/SistemaPonto/obj/Debug/net9.0/SistemaPonto.csproj.CoreCompileInputs.cache
+/Users/arthurogomes/Documents/WS-VSCode/SistemaPonto/SistemaPonto/obj/Debug/net9.0/SistemaPonto.dll
+/Users/arthurogomes/Documents/WS-VSCode/SistemaPonto/SistemaPonto/obj/Debug/net9.0/refint/SistemaPonto.dll
+/Users/arthurogomes/Documents/WS-VSCode/SistemaPonto/SistemaPonto/obj/Debug/net9.0/SistemaPonto.pdb
+/Users/arthurogomes/Documents/WS-VSCode/SistemaPonto/SistemaPonto/obj/Debug/net9.0/SistemaPonto.genruntimeconfig.cache
+/Users/arthurogomes/Documents/WS-VSCode/SistemaPonto/SistemaPonto/obj/Debug/net9.0/ref/SistemaPonto.dll
