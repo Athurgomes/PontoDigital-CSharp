@@ -2,8 +2,9 @@
 using SistemaPonto.Services;
 using SistemaPonto.Persistence;
 using SistemaPonto.Interfaces;
-
-// 1. Crie as instâncias das suas classes (o maestro contratando os músicos)
+//o program.cs é responsavel por orquestrar os demais, nesse caso como ainda não entrei com a aplicação de uma api para
+//implementar o front e realizar essa comunicação entre os mesmos, utilizo esse modelo pronto apenas para teste de uso
+//até o momento está funcionando conforme o esperado
 IPontoServices pontoService = new PontoService();
 PontoRepository pontoRepository = new PontoRepository();
 

@@ -1,7 +1,7 @@
 namespace SistemaPonto.Models;
 public class PontoModels
 {
-    public PontoModels() { }//construtor vazio para iniciar o EF
+    public PontoModels() { }//construtor vazio para iniciar o EF, pois tive problemas ao tentar iniciar meu ef migrations
     
     //utilizamos um enum para limitar o tipo de registro 
     //assim evitando escritas como entrar, entrando, e assim 
@@ -24,7 +24,8 @@ public class PontoModels
     // será chamado
     public PontoModels(int colaboradorID, tipoRegistro tipo)
     {
-        Id = Guid.NewGuid();
+        Id = Guid.NewGuid();//estou utilizando a mesma abordagem que utilizei na minha api, aqui ele retorna um id aleadorio de 
+        //128bits
         idColaborador = colaboradorID;
         Tipo = tipo;
         DataHora = DateTime.Now;//aqui pegamos a data e hora atuais

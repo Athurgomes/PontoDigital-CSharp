@@ -8,6 +8,7 @@ namespace SistemaPonto.Interfaces;
 // historioco daquele colaborador especifico por ID
 public interface IPontoServices
 {
-    PontoModels RegistrarPonto(int colaboradorId, List<PontoModels> registrosAtuais);
-    List<PontoModels> ObterApontamentosDoDia(int colaboradorID, List<PontoModels> registrosAtuais);
+    PontoModels RegistrarPonto(int colaboradorId, List<PontoModels> registrosAtuais);//esse metodo será responsavel por registrar o ponto
+    List<PontoModels> ObterApontamentosDoDia(int colaboradorID, List<PontoModels> registrosAtuais);//e esse aqui retorna os registros do dia para 
+    //o id que passar a informação
 }

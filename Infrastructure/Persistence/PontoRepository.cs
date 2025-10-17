@@ -6,6 +6,7 @@ namespace SistemaPonto.Persistence;
 
 public class PontoRepository
 {
+    //basicamente a lógica para salvar no banco de dados
     public void addPonto(PontoModels apontamento)
     {
         using (var context = new PontoDbContext())
@@ -15,6 +16,8 @@ public class PontoRepository
         }
     }
 
+    //e aqui temos a lógica para obter todos os registro, mas no caso no PontoService temos a especificação do tempo
+    // e no caso seria os do dia, assim no Program temos essa iteração buscando especificamente os do dia
     public List<PontoModels> ObterTodos()
     {
         using (var context = new PontoDbContext())
