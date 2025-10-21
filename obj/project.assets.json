@@ -3084,11 +3084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/arthurogomes/Documents/WS-VSCode/SistemaPonto/SistemaPonto/SistemaPonto.csproj",
+      "projectUniqueName": "/Users/arthurogomes/Documents/WS-VSCode/PontoDigital-CSharp/SistemaPonto.csproj",
       "projectName": "SistemaPonto",
-      "projectPath": "/Users/arthurogomes/Documents/WS-VSCode/SistemaPonto/SistemaPonto/SistemaPonto.csproj",
+      "projectPath": "/Users/arthurogomes/Documents/WS-VSCode/PontoDigital-CSharp/SistemaPonto.csproj",
       "packagesPath": "/Users/arthurogomes/.nuget/packages/",
-      "outputPath": "/Users/arthurogomes/Documents/WS-VSCode/SistemaPonto/SistemaPonto/obj/",
+      "outputPath": "/Users/arthurogomes/Documents/WS-VSCode/PontoDigital-CSharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/arthurogomes/.nuget/NuGet/NuGet.Config"
